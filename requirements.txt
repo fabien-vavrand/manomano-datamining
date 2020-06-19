@@ -1,0 +1,9 @@
+numpy>=1.16.0
+pandas>=1.0.0
+requests
+unidecode
+seaborn
+scikit-learn
+lightgbm
+aikit
+shap
